@@ -19,7 +19,7 @@
 
 I'm a Computer Science graduate of the Hebrew University of Jerusalem, interested in the engineering behind how software works: algorithms, performance, system design, and the details that make an implementation reliable.
 
-My projects range from **SLAM and computer vision** to **distributed communication, backend APIs, machine learning, microservices, AI and large-scale data analysis**. I like working close to the underlying problem, understanding the trade-offs, and building the important parts myself.
+My projects range from **SLAM and computer vision** to **distributed communication, backend APIs, machine learning, microservices, AI, algorithms and large-scale data analysis**. I like working close to the underlying problem, understanding the trade-offs, and building the important parts myself.
 
 Before focusing on software engineering, I led technical intelligence projects involving complex data systems and cross-team coordination. I'm currently interested in software engineering roles, especially **backend, systems, infrastructure, and ML/CV engineering**.
 
@@ -133,7 +133,7 @@ Before focusing on software engineering, I led technical intelligence projects i
 
 ## Currently interested in
 
-Building backend services and algorithm-heavy systems where performance, data, and correctness matter. Particularly interested in **software engineering, infrastructure, distributed systems, and applied ML/CV**.
+Building backend services and algorithm-heavy systems where performance, data, and correctness matter. Particularly interested in **software engineering, algorithms, SaaS, infrastructure, distributed systems, and applied ML/CV**.
 
 ## Contact
 
